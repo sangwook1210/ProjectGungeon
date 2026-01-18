@@ -1,0 +1,1809 @@
+fileFormatVersion: 2
+guid: de717b9f9f4fdf74da00bac5651b627c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3050
+        width: 91
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a30da814469640b806a415f6a346a
+      internalID: -488083743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3045
+        width: 91
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8affbda882d23cf4b9dc5773371cb0b8
+      internalID: -711459444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3188
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f87e7372bc7dd6448a7833874b8dcec
+      internalID: -1816057302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3049
+        width: 93
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9a36f6500065748ac0ccfbd2290785
+      internalID: 1422695014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3047
+        width: 96
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753633456d9a46d4aacd1743725afcb4
+      internalID: 169820208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2783
+        width: 95
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d932cad38abf0e640bca565384cec703
+      internalID: -2062464767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2777
+        width: 114
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f84f1961956448ba5ce4532467f75
+      internalID: 883610341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2777
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476840d24b9ef0c49ad0fcb05f4e1b26
+      internalID: 647640848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 2782
+        width: 93
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3ab38a5fa23d848b0151f03bff6721
+      internalID: -1811323654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2782
+        width: 114
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e4df27102c2348b7464f3141b3ec9
+      internalID: -550573780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 2776
+        width: 119
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0775270ae1eb74d85c74bdfbaa0e95
+      internalID: -1337537651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2584
+        width: 92
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035c5eda42df68d47b66dfe992069977
+      internalID: -641464578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2581
+        width: 115
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf434a803bd36ff4e96cffc7e8d7b0b5
+      internalID: 534692743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2582
+        width: 114
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b22da12c9b1fa444b16fae0e97e8d2f
+      internalID: -1528248505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2586
+        width: 92
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a2686ce6698d4391e7a7dc496a34b
+      internalID: 683004513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2585
+        width: 113
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b8ea677a67f82469d0c232e54e45b8
+      internalID: -194221226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2581
+        width: 117
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d236362f026ad554ab8087b4ccb677f6
+      internalID: -1324699025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2388
+        width: 93
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b282a6133398b65439c2e0f4cb31732b
+      internalID: 1188281167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2384
+        width: 114
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76daa22d41a1f8c44b787f8b2c26932c
+      internalID: -868552279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2385
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23feb0453672d854a92d4e646d59c122
+      internalID: 1406933717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2389
+        width: 90
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8594d6817dd5948bd11f9f6f54508b
+      internalID: -797205698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2389
+        width: 111
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d8ff14b6b789c46bb60d697c4f70f1
+      internalID: -594229049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2385
+        width: 113
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e9e675d8eb88f408774cc0df24c6b0
+      internalID: 811025581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 2388
+        width: 93
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0b1b27bfef45a4b99b8e1f6aabfe26
+      internalID: 1681518321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2390
+        width: 93
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd8e3c8aeb7cb648b341f12dbdc0ffc
+      internalID: 1376801508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 2390
+        width: 116
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c3df87f5dea4044ab12583485ec3cd
+      internalID: -1689064528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 2385
+        width: 111
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08a40ad697757347a25eb98c58f3cae
+      internalID: 786170662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2384
+        width: 112
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b422d23afc972034aa8d4734edd05f7c
+      internalID: -1242883076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 3052
+        width: 91
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfacc370ee34cd408523c5e5b34fb27
+      internalID: -67747799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3050
+        width: 92
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efcbb31010c2ec448df31ee90b33d1f
+      internalID: -2040194137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1050
+        width: 115
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f250316fc6b55be49ba036355f2be074
+      internalID: 969888967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1050
+        width: 153
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd08a4b3d611f4eb991d3b765a5518
+      internalID: -1203602672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1046
+        width: 168
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcfcd85738f0a64ca7f7e04ad70f59c
+      internalID: 1699068770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1046
+        width: 167
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1a3548bfda08f43bbe17bb4f598bb9
+      internalID: -1830158835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1049
+        width: 116
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131573aeb2350541bf37944e70096e8
+      internalID: -1460221023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1050
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b173d0731aaadc74682efb3ccda46b36
+      internalID: 1195802812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1046
+        width: 168
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735496cde74a32546b38d443ae058213
+      internalID: -1393576783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1046
+        width: 168
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f721f40f245004ebd97ec8db65a0a2
+      internalID: -1388921546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 864
+        width: 112
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db2c92c1080b1542942a25af1891d6a
+      internalID: 1540520454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 864
+        width: 119
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd358402146cd774684eb80e8fefefef
+      internalID: 180012856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 864
+        width: 128
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6356f1a0a55a8743b82b94d0093bdc0
+      internalID: -111202962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 865
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfefc5ace48618459fc8b875df4cb9a
+      internalID: -1827076998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 865
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e846bf02fb9d43b0bb656cac2c94b
+      internalID: 1107307208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 866
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c77ab8af552ac4691974acbd98670a
+      internalID: 1471616714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 864
+        width: 119
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cbd0c2d9cc357478787e136421424a
+      internalID: 2036809581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 864
+        width: 126
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd004e3cb3f3cf540b1adfc8a95a8300
+      internalID: -1795228798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 865
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fcc575ce4114342b7df0957efc3e11
+      internalID: 975036532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 865
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e4b74518edbea4694ea69066f0bba0
+      internalID: 469240852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 689
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8062df12736f4ff43b114a4f90e36bef
+      internalID: 2071314281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 689
+        width: 139
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ae2551cdc64a045853c54696655d2f
+      internalID: -1585644278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 689
+        width: 139
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf7dcd2c0e171c43abb991e0963275d
+      internalID: -1008353464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 689
+        width: 137
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0ae0f83792e1e479fd094b68366e20
+      internalID: -139531150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 693
+        width: 137
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d189e970111c1f4d95389d370825b59
+      internalID: 532096189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 690
+        width: 110
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bcb339b5e9c4549beb0a9cfc806cd1
+      internalID: -1917322533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 689
+        width: 138
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1f2fa89cfd01d439d929421d41a667
+      internalID: -757081847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 690
+        width: 137
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009cd9bd38d6a654ca2b0316fe62f239
+      internalID: 492974688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 689
+        width: 137
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf019eae7a82d74dae178fb61f62b55
+      internalID: -12283545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 692
+        width: 139
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502b6583397fef49b731d4d03ba9b18
+      internalID: 871696619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 521
+        width: 93
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a1e87e39243ec46bb593e06cd6322c
+      internalID: 746696252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 522
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883fa72652829147a7c571889b7024c
+      internalID: -1303916040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 521
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0a8126e99522842b612c0e064507e9
+      internalID: -693382633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 354
+        width: 91
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08058b3755f5224eab3192307f4e913
+      internalID: -1235162339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 354
+        width: 92
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445cf969398b5c4195e1385796fc378
+      internalID: 1893808231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 353
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd80b6a2eb28a24ea700d25671bad67
+      internalID: -979603997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 354
+        width: 92
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f87c6e4454f8141a7a75f8c52f888c
+      internalID: 1679472597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 130
+        width: 169
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287e6cdca37084249ae8d0af41353ed6
+      internalID: 1592877665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 130
+        width: 117
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df64dbcae579ed47ab3de7390f98bc4
+      internalID: -1843978895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 131
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c374734d2a3155746855db71dab00198
+      internalID: -251028803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 130
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c72d26d6b2924c97566f9c33d47af
+      internalID: -964953713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 132
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d8558f164aec43bb4c7c78262a6eb
+      internalID: 797460321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1329
+        width: 112
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194cfff3f9f61a9409d590b7d2bea6c8
+      internalID: 2078538351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1333
+        width: 117
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996931a27c0e11046a715c204507f87a
+      internalID: 594718808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1329
+        width: 115
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78422d211eb3b14599033ba6a1be2c0
+      internalID: -150266689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1335
+        width: 116
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e07112b01f5244da4574469f92083a
+      internalID: 1044521702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Bullet_Kin_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1333
+        width: 112
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75814b964b2870c4da10280fffc7a5c4
+      internalID: 1447686937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy_Bullet_Kin_Sprite_0: -488083743
+      Enemy_Bullet_Kin_Sprite_1: -711459444
+      Enemy_Bullet_Kin_Sprite_10: -1337537651
+      Enemy_Bullet_Kin_Sprite_11: -641464578
+      Enemy_Bullet_Kin_Sprite_12: 534692743
+      Enemy_Bullet_Kin_Sprite_13: -1528248505
+      Enemy_Bullet_Kin_Sprite_14: 683004513
+      Enemy_Bullet_Kin_Sprite_15: -194221226
+      Enemy_Bullet_Kin_Sprite_16: -1324699025
+      Enemy_Bullet_Kin_Sprite_17: 1188281167
+      Enemy_Bullet_Kin_Sprite_18: -868552279
+      Enemy_Bullet_Kin_Sprite_19: 1406933717
+      Enemy_Bullet_Kin_Sprite_2: -1816057302
+      Enemy_Bullet_Kin_Sprite_20: -797205698
+      Enemy_Bullet_Kin_Sprite_21: -594229049
+      Enemy_Bullet_Kin_Sprite_22: 811025581
+      Enemy_Bullet_Kin_Sprite_23: 1681518321
+      Enemy_Bullet_Kin_Sprite_24: 1376801508
+      Enemy_Bullet_Kin_Sprite_25: -1689064528
+      Enemy_Bullet_Kin_Sprite_26: 786170662
+      Enemy_Bullet_Kin_Sprite_27: -1242883076
+      Enemy_Bullet_Kin_Sprite_28: -67747799
+      Enemy_Bullet_Kin_Sprite_29: -2040194137
+      Enemy_Bullet_Kin_Sprite_3: 1422695014
+      Enemy_Bullet_Kin_Sprite_30: 969888967
+      Enemy_Bullet_Kin_Sprite_31: -1203602672
+      Enemy_Bullet_Kin_Sprite_32: 1699068770
+      Enemy_Bullet_Kin_Sprite_33: -1830158835
+      Enemy_Bullet_Kin_Sprite_34: -1460221023
+      Enemy_Bullet_Kin_Sprite_35: 1195802812
+      Enemy_Bullet_Kin_Sprite_36: -1393576783
+      Enemy_Bullet_Kin_Sprite_37: -1388921546
+      Enemy_Bullet_Kin_Sprite_38: 1540520454
+      Enemy_Bullet_Kin_Sprite_39: 180012856
+      Enemy_Bullet_Kin_Sprite_4: 169820208
+      Enemy_Bullet_Kin_Sprite_40: -111202962
+      Enemy_Bullet_Kin_Sprite_41: -1827076998
+      Enemy_Bullet_Kin_Sprite_42: 1107307208
+      Enemy_Bullet_Kin_Sprite_43: 1471616714
+      Enemy_Bullet_Kin_Sprite_44: 2036809581
+      Enemy_Bullet_Kin_Sprite_45: -1795228798
+      Enemy_Bullet_Kin_Sprite_46: 975036532
+      Enemy_Bullet_Kin_Sprite_47: 469240852
+      Enemy_Bullet_Kin_Sprite_48: 2071314281
+      Enemy_Bullet_Kin_Sprite_49: -1585644278
+      Enemy_Bullet_Kin_Sprite_5: -2062464767
+      Enemy_Bullet_Kin_Sprite_50: -1008353464
+      Enemy_Bullet_Kin_Sprite_51: -139531150
+      Enemy_Bullet_Kin_Sprite_52: 532096189
+      Enemy_Bullet_Kin_Sprite_53: -1917322533
+      Enemy_Bullet_Kin_Sprite_54: -757081847
+      Enemy_Bullet_Kin_Sprite_55: 492974688
+      Enemy_Bullet_Kin_Sprite_56: -12283545
+      Enemy_Bullet_Kin_Sprite_57: 871696619
+      Enemy_Bullet_Kin_Sprite_58: 746696252
+      Enemy_Bullet_Kin_Sprite_59: -1303916040
+      Enemy_Bullet_Kin_Sprite_6: 883610341
+      Enemy_Bullet_Kin_Sprite_60: -693382633
+      Enemy_Bullet_Kin_Sprite_61: -1235162339
+      Enemy_Bullet_Kin_Sprite_62: 1893808231
+      Enemy_Bullet_Kin_Sprite_63: -979603997
+      Enemy_Bullet_Kin_Sprite_64: 1679472597
+      Enemy_Bullet_Kin_Sprite_65: 1592877665
+      Enemy_Bullet_Kin_Sprite_66: -1843978895
+      Enemy_Bullet_Kin_Sprite_67: -251028803
+      Enemy_Bullet_Kin_Sprite_68: -964953713
+      Enemy_Bullet_Kin_Sprite_69: 797460321
+      Enemy_Bullet_Kin_Sprite_7: 647640848
+      Enemy_Bullet_Kin_Sprite_70: 2078538351
+      Enemy_Bullet_Kin_Sprite_71: 594718808
+      Enemy_Bullet_Kin_Sprite_72: -150266689
+      Enemy_Bullet_Kin_Sprite_73: 1044521702
+      Enemy_Bullet_Kin_Sprite_74: 1447686937
+      Enemy_Bullet_Kin_Sprite_8: -1811323654
+      Enemy_Bullet_Kin_Sprite_9: -550573780
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
